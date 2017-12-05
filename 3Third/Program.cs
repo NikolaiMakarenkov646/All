@@ -13,8 +13,8 @@ namespace _3Third
         static void Main(string[] args)
         {
 
-            var tmp = new BinarryTreeMaxDeepth();
-            var x = tmp.GetMaxDepthNode(CreateNewTree());
+            var tmp = new BinarryTreeMaxDeepNodeValue();
+            var x = tmp.GetMaxDeepNodeValue(CreateNewTree());
             Console.Read();
         }
 
