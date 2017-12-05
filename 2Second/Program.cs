@@ -8,6 +8,7 @@ namespace _2Second
 {
     class Program
     {
+        // ejnkdnqwe
         static void Main(string[] args)
         {
             int[] arr = new int[] { 1,2,4,7,6,6,6,2,0};
