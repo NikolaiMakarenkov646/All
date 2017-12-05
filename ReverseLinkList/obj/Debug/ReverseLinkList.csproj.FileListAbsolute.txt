@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\ReverseLinkList\bin\Debug\ReverseLi
 C:\Users\Codevalue\Desktop\Codility\Codility\ReverseLinkList\obj\Debug\ReverseLinkList.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\ReverseLinkList\obj\Debug\ReverseLinkList.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\ReverseLinkList\obj\Debug\ReverseLinkList.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\bin\Debug\ReverseLinkList.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\obj\Debug\ReverseLinkList.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\obj\Debug\ReverseLinkList.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\bin\Debug\ReverseLinkList.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\bin\Debug\ReverseLinkList.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ReverseLinkList\obj\Debug\ReverseLinkList.csprojResolveAssemblyReference.cache

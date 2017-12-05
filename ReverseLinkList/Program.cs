@@ -12,32 +12,10 @@ namespace ReverseLinkList
         {
             PrintListNode(CreateLinkList());
 
-            //PrintListNode(CreateLinkList());
-            //var revLinkList = new ReverseLinkList();
-            //var result1 = revLinkList.Reverse(CreateLinkList());
-            //PrintListNode(result1);
-            ////Console.Read();
-            //Console.WriteLine("************");
-
-            var revLinkListStack = new ReverseLinkListStack();
-            var result2 = revLinkListStack.Reverse(CreateLinkList());
-            PrintListNode(result2);
-            Console.Read();
-            Console.WriteLine("************");
-
-            var myinkList = new MyLinkList();
-            //var result3 = myinkList.GetMaxFromLinkList(CreateLinkList());
-            //Console.WriteLine(result3);
-
-            //var result4 =myinkList.DeleteFromLinkList(CreateLinkList(),4);
-            //PrintListNode(result4);
-
-            //var result5 = myinkList.ReplaceValueInLinkList(CreateLinkList(), 4, 99);
-            //PrintListNode(result5);
-
-            var result6 = myinkList.Reverse(CreateLinkList());
-            PrintListNode(result6);
-            Console.Read();
+            var tmp = new MyLinkList();
+            var result = tmp.Reverse(CreateLinkList());
+            var result2 = tmp.GetMaxFromLinkList(CreateLinkList());
+            PrintListNode(result);
         }
 
         static ListNode CreateLinkList()
@@ -53,20 +31,19 @@ namespace ReverseLinkList
                         Value = 3,
                         Next = new ListNode()
                         {
-                            Value = 4,
+                            Value = 9,
                             Next = new ListNode()
                             {
                                 Value = 5,
-                                Next = null
-                                //Next = new ListNode()
-                                //{
-                                //    Value = 6,
-                                //    Next = new ListNode()
-                                //    {
-                                //        Value = 7,
-                                //        Next = null
-                                //    }
-                                //}
+                                Next = new ListNode()
+                                {
+                                    Value = 6,
+                                    Next = new ListNode()
+                                    {
+                                        Value = 7,
+                                        Next = null
+                                    }
+                                }
                             }
                         }
                     }
