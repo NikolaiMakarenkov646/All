@@ -11,11 +11,11 @@ namespace _3Third
 
         public int GetMaxCountDistinct(Tree binaryTree)
         {
-            var result = CreatePaths(binaryTree, new List<int>(), 0);
+            var result = CreatePaths(binaryTree, new List<int>());
             return result;
         }
 
-        private int CreatePaths(Tree binaryTree, List<int> pathList, int result)
+        private int CreatePaths(Tree binaryTree, List<int> pathList)
         {
             if (binaryTree == null)
                 return 0;
@@ -23,14 +23,11 @@ namespace _3Third
             pathList.Add(binaryTree.Head);
             if (binaryTree.Left == null && binaryTree.Right == null)
             {
-                var tmp = pathList.Distinct().Count();
-                if (tmp > result)
-                    result = tmp;
-                return result;
+                return pathList.Distinct().Count();
             }
 
-            var left = CreatePaths(binaryTree.Left, CreateNewCloneList(pathList), result);
-            var right = CreatePaths(binaryTree.Right, CreateNewCloneList(pathList), result);
+            var left = CreatePaths(binaryTree.Left, CreateNewCloneList(pathList));
+            var right = CreatePaths(binaryTree.Right, CreateNewCloneList(pathList));
 
             return Math.Max(left, right);
         }

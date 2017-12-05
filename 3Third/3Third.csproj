@@ -48,7 +48,6 @@
     <Compile Include="BinarryTreeMaxDeepNodeIndex.cs" />
     <Compile Include="BinarryTreeMaxDeepNodeValue.cs" />
     <Compile Include="BinarryTreeMaxDeepth.cs" />
-    <Compile Include="BinarryTreeMaxNodes.cs" />
     <Compile Include="BinarryTreeMaxNumber.cs" />
     <Compile Include="BinarryTreeMaxSumNodes.cs" />
     <Compile Include="Program.cs" />

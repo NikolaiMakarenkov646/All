@@ -13,8 +13,8 @@ namespace _3Third
         static void Main(string[] args)
         {
 
-            var tmp = new BinarryTreeMaxDeepNodeValue();
-            var x = tmp.GetMaxDeepNodeValue(CreateNewTree());
+            var tmp = new BinarryTreeMaxNumber();
+            var x = tmp.GetMaxNumber2(CreateNewTree());
             Console.Read();
         }
 
@@ -29,10 +29,10 @@ namespace _3Third
                 Head = 2,
                 Left = new Tree()
                 {
-                    Head = 3,
+                    Head = 2,
                     Left = new Tree()
                     {
-                        Head = 5,
+                        Head = 2,
                         Left = null,
                         Right = null,
                     },
@@ -56,7 +56,7 @@ namespace _3Third
                 },
                 Right = new Tree()
                 {
-                    Head = 7,
+                    Head = 88,
                     Left = null,
                     Right = new Tree()
                     {

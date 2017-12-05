@@ -24,5 +24,16 @@ namespace _3Third
                 result = resultRight;
             return result;
         }
+
+        public int GetMaxNumber2(Tree tree)
+        {
+            if (tree == null)
+                return int.MinValue;
+
+            int resultLeft = Math.Max(GetMaxNumber(tree.Left), tree.Head);
+            int resultRight = Math.Max(GetMaxNumber(tree.Right), tree.Head);
+
+            return Math.Max(resultRight, resultLeft);
+        }
     }
 }
