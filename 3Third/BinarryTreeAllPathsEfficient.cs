@@ -8,31 +8,6 @@ namespace _3Third
 {
     public class BinarryTreeAllPathsEfficient
     {
-        public int GetMaxNodes(Tree tree)
-        {
-            if (tree == null)
-            {
-                return 0;
-            }
-            var leftResult = GetMaxNodes(tree.Left);
-            var rightResult = GetMaxNodes(tree.Right);
-            return Math.Max(rightResult, leftResult) + 1;
-        }
-
-        public int GetMaxSumNode(Tree tree)
-        {
-            if (tree == null)
-            {
-                return 0;
-            }
-
-            var leftResult = GetMaxSumNode(tree.Left);
-            var rightResult = GetMaxSumNode(tree.Right);
-            return Math.Max(rightResult, leftResult) +tree.Head;
-        }
-
-
-
 
         public int GetMaxCountDistinct(Tree binaryTree)
         {

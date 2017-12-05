@@ -12,30 +12,10 @@ namespace _3Third
     {
         static void Main(string[] args)
         {
-            //var btEfficient = new BinarryTreeAllPathsEfficient();
-            ////var result = btEfficient.GetMaxCountDistinct(CreateNewTree());
-            //var result9 = btEfficient.GetMaxNodes(CreateNewTree());
-            //var result10 = btEfficient.GetMaxSumNode(CreateNewTree());
-            //Console.WriteLine(result9);
-            //Console.WriteLine(result10);
-            //Console.Read();
 
-            var btMaxDeepNumber = new BinarryTreeMaxDeepNode();
-            Node result2 = new Node();
-            btMaxDeepNumber.GetMaxDeepNodeValue(null,-1,result2);
+            var tmp = new BinarryTreeMaxDeepth();
+            var x = tmp.GetMaxDepthNode(CreateNewTree());
             Console.Read();
-            //btMaxDeepNumber.GetMaxDeepNodeValue(CreateNewTree(),0,result2);
-            ////Console.WriteLine(btMaxDeepNumber.GetMaxDeepNodeIndex(CreateNewTree(),0));
-            //Console.Read();
-
-            //var btMaxNumber = new BinarryTreeMaxNumber();
-            //Console.WriteLine(btMaxNumber.GetMaxNumber(CreateNewTree()));
-            //Console.Read();
-
-
-            //var paths = new BinarryTreeAllPaths();
-            //var allPaths = paths.GetAllPaths(CreateNewTree());
-            //Console.Read();
         }
 
        

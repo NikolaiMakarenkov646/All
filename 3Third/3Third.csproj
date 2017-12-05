@@ -45,8 +45,12 @@
   <ItemGroup>
     <Compile Include="BinarryTreeAllPaths.cs" />
     <Compile Include="BinarryTreeAllPathsEfficient.cs" />
-    <Compile Include="BinarryTreeMaxDeepNode.cs" />
+    <Compile Include="BinarryTreeMaxDeepNodeIndex.cs" />
+    <Compile Include="BinarryTreeMaxDeepNodeValue.cs" />
+    <Compile Include="BinarryTreeMaxDeepth.cs" />
+    <Compile Include="BinarryTreeMaxNodes.cs" />
     <Compile Include="BinarryTreeMaxNumber.cs" />
+    <Compile Include="BinarryTreeMaxSumNodes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
