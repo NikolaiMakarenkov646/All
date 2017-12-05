@@ -53,7 +53,6 @@ namespace ReverseLinkList
             }
             var result = Reverse(listNode.Next);
 
-            var listNodeNext = listNode.Next;
             listNode.Next.Next = listNode;
             listNode.Next = null;
 
