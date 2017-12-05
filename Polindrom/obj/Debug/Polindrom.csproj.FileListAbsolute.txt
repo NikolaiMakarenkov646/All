@@ -1,0 +1,6 @@
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\bin\Debug\Polindrom.exe.config
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\bin\Debug\Polindrom.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\bin\Debug\Polindrom.pdb
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\obj\Debug\Polindrom.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\obj\Debug\Polindrom.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\Polindrom\obj\Debug\Polindrom.pdb

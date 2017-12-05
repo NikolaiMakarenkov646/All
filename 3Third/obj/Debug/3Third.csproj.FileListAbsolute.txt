@@ -1,0 +1,6 @@
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\bin\Debug\3Third.exe.config
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\bin\Debug\3Third.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\bin\Debug\3Third.pdb
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\obj\Debug\3Third.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\obj\Debug\3Third.pdb
+C:\Users\Codevalue\Desktop\Codility\Codility\3Third\obj\Debug\3Third.csprojResolveAssemblyReference.cache

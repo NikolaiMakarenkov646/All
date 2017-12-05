@@ -1,0 +1,6 @@
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\bin\Debug\PermCheck.exe.config
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\bin\Debug\PermCheck.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\bin\Debug\PermCheck.pdb
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\obj\Debug\PermCheck.exe
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\obj\Debug\PermCheck.pdb
+C:\Users\Codevalue\Desktop\Codility\Codility\PermCheck\obj\Debug\PermCheck.csprojResolveAssemblyReference.cache
