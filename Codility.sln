@@ -39,8 +39,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Second", "2Second\2Second.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Third", "3Third\3Third.csproj", "{476BC402-8A25-455A-B92F-EDFF0CC7627A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bitwise", "Bitwise", "{94674C50-C8DC-411F-994B-D113F0E5902F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polindrom", "Polindrom\Polindrom.csproj", "{BD4870AF-A71C-4252-96A0-92BDFBA8F8F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntToBinary", "IntToBinary\IntToBinary.csproj", "{FC4D2F13-B363-462A-8525-F472FFA12215}"
@@ -164,10 +162,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{BD4870AF-A71C-4252-96A0-92BDFBA8F8F3} = {94674C50-C8DC-411F-994B-D113F0E5902F}
-		{FC4D2F13-B363-462A-8525-F472FFA12215} = {94674C50-C8DC-411F-994B-D113F0E5902F}
-		{A4621D58-DB73-4DEF-B0AB-C24493C980AB} = {94674C50-C8DC-411F-994B-D113F0E5902F}
 	EndGlobalSection
 EndGlobal

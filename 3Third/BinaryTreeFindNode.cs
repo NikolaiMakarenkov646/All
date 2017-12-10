@@ -20,9 +20,23 @@ namespace _3Third
             return resRight || resLeft;
         }
 
-        //public Tree Find(Tree tree, int value)
-        //{
-            
-        //}
+        public Tree Find(Tree tree, int value)
+        {
+            if (tree==null)
+            {
+                return null;
+            }
+            if (tree.Head == value)
+            {
+                return tree;
+            }
+            var left = Find(tree.Left, value);
+            var right = Find(tree.Right, value);
+            if (left != null)
+                return left;
+            if (right != null)
+                return right;
+            return null;
+        }
     }
 }

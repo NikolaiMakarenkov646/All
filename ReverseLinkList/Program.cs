@@ -12,10 +12,10 @@ namespace ReverseLinkList
         {
             PrintListNode(CreateLinkList());
 
-            var tmp = new MyLinkList();
+            var tmp = new ReverseLinkListWhile();
             var result = tmp.Reverse(CreateLinkList());
-            var result2 = tmp.GetMaxFromLinkList(CreateLinkList());
             PrintListNode(result);
+            Console.Read();
         }
 
         static ListNode CreateLinkList()
@@ -31,7 +31,7 @@ namespace ReverseLinkList
                         Value = 3,
                         Next = new ListNode()
                         {
-                            Value = 9,
+                            Value = 4,
                             Next = new ListNode()
                             {
                                 Value = 5,

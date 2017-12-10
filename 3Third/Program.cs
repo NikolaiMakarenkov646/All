@@ -12,12 +12,33 @@ namespace _3Third
     {
         static void Main(string[] args)
         {
-            var tmp = new BinarryTreeMaxNumber();
-            var x = tmp.GetMaxNumber2(CreateNewTree());
+            var tmp = new BinaryTreeFindNode();
+            var sub = CreateSubTree();
+            var x = tmp.Find(CreateNewTree(),2);
             Console.Read();
         }
 
-       
+
+        private static Tree CreateSubTree()
+        {
+            Tree tree = new Tree();
+
+            tree.Head = 99;
+            tree.Left = null;
+            tree.Right = new Tree()
+            {
+                Head = 8,
+                Right = null,
+                Left = new Tree()
+                {
+                    Head = 9,
+                    Left = null,
+                    Right = null
+                }
+            };
+            return tree;
+
+        }
         private static Tree CreateNewTree()
         {
             Tree tree = new Tree();
@@ -28,13 +49,8 @@ namespace _3Third
                 Head = 2,
                 Left = new Tree()
                 {
-                    Head = 2,
-                    Left = new Tree()
-                    {
-                        Head = 2,
-                        Left = null,
-                        Right = null,
-                    },
+                    Head = 5,
+                    Left = null,
                     Right = null
                 },
                 Right = new Tree()
