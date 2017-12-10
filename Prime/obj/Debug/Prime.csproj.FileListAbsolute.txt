@@ -1,0 +1,6 @@
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\bin\Debug\Prime.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\bin\Debug\Prime.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\bin\Debug\Prime.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\obj\Debug\Prime.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Prime\obj\Debug\Prime.pdb

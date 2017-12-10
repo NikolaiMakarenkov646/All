@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{476BC402-8A25-455A-B92F-EDFF0CC7627A}</ProjectGuid>
+    <ProjectGuid>{686C5A48-982E-44DA-B3A8-764858C99CCA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3Third</RootNamespace>
-    <AssemblyName>3Third</AssemblyName>
+    <RootNamespace>Prime</RootNamespace>
+    <AssemblyName>Prime</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinarryTreeAllPaths.cs" />
-    <Compile Include="BinarryTreeAllPathsEfficient.cs" />
-    <Compile Include="BinarryTreeMaxDeepNodeIndex.cs" />
-    <Compile Include="BinarryTreeMaxDeepNodeValue.cs" />
-    <Compile Include="BinarryTreeMaxDeepth.cs" />
-    <Compile Include="BinarryTreeMaxNumber.cs" />
-    <Compile Include="BinarryTreeMaxSumNodes.cs" />
-    <Compile Include="BinaryTreeFindNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

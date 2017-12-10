@@ -12,7 +12,6 @@ namespace _3Third
     {
         static void Main(string[] args)
         {
-
             var tmp = new BinarryTreeMaxNumber();
             var x = tmp.GetMaxNumber2(CreateNewTree());
             Console.Read();

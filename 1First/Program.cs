@@ -14,7 +14,6 @@ namespace _1First
         {
             int num = 195378678;
             int num2 = 78;
-
             Console.WriteLine(solution(num,num2));
             Console.Read();
         }

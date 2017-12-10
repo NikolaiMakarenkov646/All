@@ -3,3 +3,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\1First\bin\Debug\1First.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\1First\bin\Debug\1First.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\1First\obj\Debug\1First.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\1First\obj\Debug\1First.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\bin\Debug\1First.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\obj\Debug\1First.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\obj\Debug\1First.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\bin\Debug\1First.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\bin\Debug\1First.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\1First\obj\Debug\1First.csprojResolveAssemblyReference.cache

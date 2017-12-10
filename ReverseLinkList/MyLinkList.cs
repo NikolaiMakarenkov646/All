@@ -17,9 +17,6 @@ namespace ReverseLinkList
             int result = listNode.Value;
             var next = GetMaxFromLinkList(listNode.Next);
 
-            //if (next > result)
-            //    result = next;
-            //return result;
             return Math.Max(result, next);
         }
 
