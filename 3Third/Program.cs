@@ -12,33 +12,33 @@ namespace _3Third
     {
         static void Main(string[] args)
         {
-            var tmp = new BinaryTreeFindNode();
-            var sub = CreateSubTree();
-            var x = tmp.Find(CreateNewTree(),2);
+            var tmp = new BinaryTreeSerilization();
+            var x = tmp.Serialize(CreateNewTree());
+            var des = tmp.DeserializeBinaryTree(x);
             Console.Read();
         }
 
 
-        private static Tree CreateSubTree()
-        {
-            Tree tree = new Tree();
+        //private static Tree CreateSubTree()
+        //{
+        //    Tree tree = new Tree();
 
-            tree.Head = 99;
-            tree.Left = null;
-            tree.Right = new Tree()
-            {
-                Head = 8,
-                Right = null,
-                Left = new Tree()
-                {
-                    Head = 9,
-                    Left = null,
-                    Right = null
-                }
-            };
-            return tree;
+        //    tree.Head = 99;
+        //    tree.Left = null;
+        //    tree.Right = new Tree()
+        //    {
+        //        Head = 8,
+        //        Right = null,
+        //        Left = new Tree()
+        //        {
+        //            Head = 9,
+        //            Left = null,
+        //            Right = null
+        //        }
+        //    };
+        //    return tree;
 
-        }
+        //}
         private static Tree CreateNewTree()
         {
             Tree tree = new Tree();

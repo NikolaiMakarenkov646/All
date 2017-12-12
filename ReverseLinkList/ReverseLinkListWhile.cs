@@ -11,12 +11,12 @@ namespace ReverseLinkList
         public ListNode Reverse(ListNode currentNode)
         {
             ListNode prevNode = null;
-            HashSet<ListNode> lst = new HashSet<ListNode>();
             
             while (currentNode != null)
             {
                 var nextNode = currentNode.Next;
                 currentNode.Next = prevNode;
+
                 prevNode = currentNode;
                 currentNode = nextNode;
             }
