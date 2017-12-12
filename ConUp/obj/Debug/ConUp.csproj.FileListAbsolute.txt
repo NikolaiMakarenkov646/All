@@ -1,0 +1,6 @@
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\bin\Debug\ConUp.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\bin\Debug\ConUp.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\bin\Debug\ConUp.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\obj\Debug\ConUp.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\obj\Debug\ConUp.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\ConUp\obj\Debug\ConUp.pdb
