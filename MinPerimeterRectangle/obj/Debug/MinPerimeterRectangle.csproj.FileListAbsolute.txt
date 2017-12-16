@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\MinPerimeterRectangle\bin\Debug\Min
 C:\Users\Codevalue\Desktop\Codility\Codility\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\bin\Debug\MinPerimeterRectangle.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\bin\Debug\MinPerimeterRectangle.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\bin\Debug\MinPerimeterRectangle.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MinPerimeterRectangle\obj\Debug\MinPerimeterRectangle.pdb

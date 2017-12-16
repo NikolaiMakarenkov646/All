@@ -3,3 +3,8 @@ C:\Users\Codevalue\Desktop\Codility\Codility\IntToBinary\bin\Debug\IntToBinary.e
 C:\Users\Codevalue\Desktop\Codility\Codility\IntToBinary\bin\Debug\IntToBinary.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\IntToBinary\obj\Debug\IntToBinary.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\IntToBinary\obj\Debug\IntToBinary.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\IntToBinary\bin\Debug\IntToBinary.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\IntToBinary\bin\Debug\IntToBinary.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\IntToBinary\bin\Debug\IntToBinary.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\IntToBinary\obj\Debug\IntToBinary.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\IntToBinary\obj\Debug\IntToBinary.pdb

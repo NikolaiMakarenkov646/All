@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _1First;
 
 namespace _2Second
 {
@@ -14,6 +15,7 @@ namespace _2Second
             int[] arr = new int[] { 1,2,4,7,6,6,6,2,0};
 
             var x = MaxSliceSumFromArr(arr);
+
         }
 
         private static int MaxSliceSumFromArr(int[] arr)

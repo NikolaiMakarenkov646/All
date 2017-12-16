@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\Triangle\bin\Debug\Triangle.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\Triangle\obj\Debug\Triangle.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\bin\Debug\Triangle.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\obj\Debug\Triangle.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Triangle\obj\Debug\Triangle.pdb

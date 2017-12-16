@@ -1,0 +1,5 @@
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Demo\bin\Debug\Demo.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Demo\bin\Debug\Demo.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Demo\bin\Debug\Demo.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Demo\obj\Debug\Demo.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Demo\obj\Debug\Demo.pdb

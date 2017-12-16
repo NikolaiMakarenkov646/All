@@ -1,0 +1,5 @@
+C:\Users\Codevalue\Desktop\MyGitRepository\All\DesighnPateerns\bin\Debug\DesighnPateerns.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\DesighnPateerns\bin\Debug\DesighnPateerns.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\DesighnPateerns\bin\Debug\DesighnPateerns.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\DesighnPateerns\obj\Debug\DesighnPateerns.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\DesighnPateerns\obj\Debug\DesighnPateerns.pdb

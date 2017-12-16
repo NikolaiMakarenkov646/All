@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\Peaks\bin\Debug\Peaks.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\Peaks\bin\Debug\Peaks.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\Peaks\obj\Debug\Peaks.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\Peaks\obj\Debug\Peaks.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\bin\Debug\Peaks.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\bin\Debug\Peaks.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\bin\Debug\Peaks.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\obj\Debug\Peaks.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\obj\Debug\Peaks.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Peaks\obj\Debug\Peaks.pdb

@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\PermMissingElem\bin\Debug\PermMissi
 C:\Users\Codevalue\Desktop\Codility\Codility\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\PermMissingElem\obj\Debug\PermMissingElem.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\PermMissingElem\obj\Debug\PermMissingElem.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\bin\Debug\PermMissingElem.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\bin\Debug\PermMissingElem.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\bin\Debug\PermMissingElem.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\obj\Debug\PermMissingElem.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\PermMissingElem\obj\Debug\PermMissingElem.pdb

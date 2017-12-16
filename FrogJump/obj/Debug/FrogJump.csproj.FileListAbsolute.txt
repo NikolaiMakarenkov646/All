@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\FrogJump\bin\Debug\FrogJump.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogJump\obj\Debug\FrogJump.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogJump\obj\Debug\FrogJump.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogJump\obj\Debug\FrogJump.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\bin\Debug\FrogJump.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\bin\Debug\FrogJump.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\bin\Debug\FrogJump.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\obj\Debug\FrogJump.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\obj\Debug\FrogJump.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogJump\obj\Debug\FrogJump.pdb

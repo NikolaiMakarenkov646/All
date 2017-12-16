@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\Nesting\bin\Debug\Nesting.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\Nesting\obj\Debug\Nesting.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\Nesting\obj\Debug\Nesting.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\Nesting\obj\Debug\Nesting.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\bin\Debug\Nesting.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\bin\Debug\Nesting.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\bin\Debug\Nesting.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\obj\Debug\Nesting.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\obj\Debug\Nesting.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Nesting\obj\Debug\Nesting.pdb

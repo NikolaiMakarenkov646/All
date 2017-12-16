@@ -19,7 +19,7 @@ namespace _3Third
         {
             if (root == null)
             {
-                _lisOfTreeNode.Add(new Tree());
+                _lisOfTreeNode.Add(new Tree() { Head = -1 });
             }
             else
             {
@@ -49,7 +49,6 @@ namespace _3Third
                 return;
             }
             start++;
-
             this.DeserializeBinaryTreeRecursion(listofNodes, root.Left);
             this.DeserializeBinaryTreeRecursion(listofNodes, root.Right);
         }

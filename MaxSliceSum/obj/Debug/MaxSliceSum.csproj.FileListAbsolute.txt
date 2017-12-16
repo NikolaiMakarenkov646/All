@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\MaxSliceSum\bin\Debug\MaxSliceSum.p
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxSliceSum\obj\Debug\MaxSliceSum.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxSliceSum\obj\Debug\MaxSliceSum.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxSliceSum\obj\Debug\MaxSliceSum.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\bin\Debug\MaxSliceSum.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\bin\Debug\MaxSliceSum.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\bin\Debug\MaxSliceSum.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\obj\Debug\MaxSliceSum.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\obj\Debug\MaxSliceSum.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxSliceSum\obj\Debug\MaxSliceSum.pdb

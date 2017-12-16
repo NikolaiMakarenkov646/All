@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\Dominator\bin\Debug\Dominator.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\Dominator\obj\Debug\Dominator.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\Dominator\obj\Debug\Dominator.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\Dominator\obj\Debug\Dominator.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\bin\Debug\Dominator.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\bin\Debug\Dominator.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\bin\Debug\Dominator.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\obj\Debug\Dominator.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\obj\Debug\Dominator.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\Dominator\obj\Debug\Dominator.pdb

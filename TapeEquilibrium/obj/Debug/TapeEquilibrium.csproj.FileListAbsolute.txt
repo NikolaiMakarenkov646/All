@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\TapeEquilibrium\bin\Debug\TapeEquil
 C:\Users\Codevalue\Desktop\Codility\Codility\TapeEquilibrium\obj\Debug\TapeEquilibrium.csprojResolveAssemblyReference.cache
 C:\Users\Codevalue\Desktop\Codility\Codility\TapeEquilibrium\obj\Debug\TapeEquilibrium.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\TapeEquilibrium\obj\Debug\TapeEquilibrium.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\bin\Debug\TapeEquilibrium.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\bin\Debug\TapeEquilibrium.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\bin\Debug\TapeEquilibrium.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\obj\Debug\TapeEquilibrium.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\obj\Debug\TapeEquilibrium.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\TapeEquilibrium\obj\Debug\TapeEquilibrium.pdb

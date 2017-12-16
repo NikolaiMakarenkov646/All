@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\FrogRiverOne\bin\Debug\FrogRiverOne
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogRiverOne\bin\Debug\FrogRiverOne.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogRiverOne\obj\Debug\FrogRiverOne.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\FrogRiverOne\obj\Debug\FrogRiverOne.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\bin\Debug\FrogRiverOne.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\bin\Debug\FrogRiverOne.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\bin\Debug\FrogRiverOne.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\obj\Debug\FrogRiverOne.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\obj\Debug\FrogRiverOne.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\FrogRiverOne\obj\Debug\FrogRiverOne.pdb

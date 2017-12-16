@@ -4,3 +4,9 @@ C:\Users\Codevalue\Desktop\Codility\Codility\MaxCounters\bin\Debug\MaxCounters.p
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxCounters\obj\Debug\MaxCounters.exe
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxCounters\obj\Debug\MaxCounters.pdb
 C:\Users\Codevalue\Desktop\Codility\Codility\MaxCounters\obj\Debug\MaxCounters.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\bin\Debug\MaxCounters.exe.config
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\bin\Debug\MaxCounters.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\bin\Debug\MaxCounters.pdb
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\obj\Debug\MaxCounters.csprojResolveAssemblyReference.cache
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\obj\Debug\MaxCounters.exe
+C:\Users\Codevalue\Desktop\MyGitRepository\All\MaxCounters\obj\Debug\MaxCounters.pdb
