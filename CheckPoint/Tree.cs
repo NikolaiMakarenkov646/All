@@ -8,7 +8,7 @@ namespace CheckPoint
 {
     public class Tree
     {
-        public string Sender { get; set; }
+        public int Head { get; set; }
         public Tree Left { get; set; }
         public Tree Right { get; set; }
     }

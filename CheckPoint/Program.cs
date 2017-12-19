@@ -17,9 +17,38 @@ namespace CheckPoint
             return null;
         }
 
-        private static Result SearchInTree(string message)
+        private Result SearchInBst(Tree tree, int message)
         {
-            
+            var result = SearchInTree(tree, message);
+            return result == null ? Result.GotMessage : Result.IgnoreMessage;
+        }
+
+        private static Tree SearchInTree(Tree tree, int message)
+        {
+            while (true)
+            {
+                if (tree == null || tree.Head == message)
+                    return tree;
+
+                if (tree.Head > message)
+                {
+                    tree = tree.Left;
+                    continue;
+                }
+
+                tree = tree.Right;
+            }
+        }
+
+        private static Tree SearchInTreerecursive(Tree tree, int message)
+        {
+            if (tree == null || tree.Head == message)
+                return tree;
+
+            if (tree.Head > message)
+                return SearchInTree(tree.Left, message);
+
+            return SearchInTree(tree.Right, message);
         }
 
     }
