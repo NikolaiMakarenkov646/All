@@ -32,10 +32,8 @@ namespace Prime
                 return false;
             if (candidate == 2)
                 return true;
-            if (candidate % 2 == 0)
-                return false;
 
-            for (int i = 3; i <= Math.Sqrt(candidate); i++)
+            for (int i = 2; i <= Math.Sqrt(candidate); i++)
             {
                 if (candidate % i== 0)
                     return false;

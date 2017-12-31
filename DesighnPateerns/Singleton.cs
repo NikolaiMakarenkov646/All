@@ -9,7 +9,7 @@ namespace DesighnPateerns
     public class Singleton
     {
         private Student _instance;
-        private object _lock;
+        private object _lock  = new object();
         public Student Instance
         {
             get
@@ -18,7 +18,7 @@ namespace DesighnPateerns
                     lock (_lock)
                     {
                         if (_instance == null)
-                            return new Student();
+                            _instance = new Student();
                     }
                 return _instance;
             }

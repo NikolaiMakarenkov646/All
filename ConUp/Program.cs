@@ -14,6 +14,7 @@ namespace ConUp
             var registryKey = Registry.ClassesRoot.GetValue("EditFlags");
             var registryKey2 = Registry.ClassesRoot.GetValue("zzz");
             var zz = Registry.CurrentUser.OpenSubKey("Control Panel").OpenSubKey("Desktop").OpenSubKey("Colors");
+            var sxsx=zz.Name.Substring(0,zz.Name.IndexOf("\\"));
             var name = zz.Name.Substring(zz.Name.LastIndexOf("\\", StringComparison.Ordinal) + 1);
             var zz2 = Registry.CurrentUser.OpenSubKey("Control Panel").OpenSubKey("Desktop").OpenSubKey("Colors").GetSubKeyNames();
 
